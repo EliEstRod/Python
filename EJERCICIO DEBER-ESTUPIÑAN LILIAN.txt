@@ -1,0 +1,32 @@
+# Sample Solution
+print("MI PROGRAMA!")
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+print(" ")
+print("Hola, Soy LILIAN!")
+print(" ")
+print("Este programa,tendra por objetivo realizar: \n OPERACIONES MATEMATICAS")
+print(" ")
+print("Empecemos", "El", "ejercico" , sep="-")
+print(" ")
+
+var=3 * 2
+x=2
+y=var + x
+z=8/2
+
+print("La primera Operacion es:", var,"\nSegunda Operacion es:",y,"\nTercera Operacion es:",z ,sep=" ")
+print(" ")
+
+print("Sumando todos los valores:", var+x+y+z)
+
+print("    *\n   * *\n  *   *\n *     *\n***   ***")
+print("  *   *\n  *   *\n  *****")
+
+print("GRACIAS!")
